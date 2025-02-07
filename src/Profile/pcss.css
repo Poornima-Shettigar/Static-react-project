@@ -1,0 +1,123 @@
+.Profile {
+    text-align: center;
+  }
+body{
+    background-color:lightgray;
+   
+}
+.main{
+    display: flex;
+}
+.resume-builder{
+    
+    margin-left:0.5%;
+    border-radius: 5%;
+    align-items:left;
+    width:50%;
+    background-color: lightblue;
+    display: flexbox;
+
+}
+h2,h3{
+    font-size: 14;
+    text-align:center;
+    background-color: beige;
+    color: chocolate;
+
+}
+a :hover{
+    background-color: red;
+}
+
+.career{
+    margin-left:0.5%;                font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    display: inline;
+}
+.career p{
+    margin-left:2%; }
+.personal_info{
+    margin-left:0.5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22;
+    font-display:initial;
+}
+
+.lang h2{
+text-align:center;
+font-style: normal;
+}
+.lang{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    font-style: italic;
+}
+.Qualification{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: baseline;
+}
+.tq{
+    width:100%;
+    border-color: rgb(0, 0, 0);
+    border-radius: 0.5%;
+    border-style: groove;
+    
+
+}
+
+.additional-info{
+    border-radius: 5%;
+    margin-left:1%;
+    text-align: 2%;
+   height: fit-content;
+   background-color: lightpink;
+    align-items:right;
+    width:50%;
+  box-align: right;
+  display: vertically;
+}
+.photo img{
+    margin:0 auto;
+    display:block;
+    object-fit: cover;
+    border-radius: 100%;
+          }
+          .course{
+            font-family: 'Times New Roman', Times, serif;
+          }
+          .course p{
+            margin-left: 2%;
+          }
+          .Interest p{
+            margin-left: 0.5%;
+          }
+          .hobbies{
+            width:100%;
+
+            margin-left:0.1%;
+          }
+          .hobbies p{
+            margin-left:2%;
+          }
+          .Computer-teacher h4{
+            margin-left:5%;
+          }.Computer-teacher p{
+            margin-left:25%;
+          }
+          
+          
+
+          .wikipedia h4{
+            background-color: lightpink;
+            margin-left:5%;
+          }
+          .wikipedia p{
+            margin-left:25%;
+          }
+.project h4{
+    text-align:center;
+}
+.project p{
+    display: flexbox;
+    margin-left: 2%;
+}
