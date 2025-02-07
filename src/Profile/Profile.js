@@ -11,6 +11,7 @@ export default function Profile(params){
                 <center><h1><b>Personal Information:</b></h1></center>
                 <div className="photo">
                     <img src= ".\src\Profile\resum.jpg" alt="poornima" width="200" height="200" />
+                    <div></div>
 
                 </div>
 
