@@ -1,6 +1,5 @@
 import Header from "../header/header";
 import pcss from "../Profile/pcss.css";
-import './resum.jpg';
 //import resum from '/Profile/resum.jpg';
 export default function Profile(params){
     return(
@@ -10,7 +9,7 @@ export default function Profile(params){
             <div className="resume-builder">
                 <center><h1><b>Personal Information:</b></h1></center>
                 <div className="photo">
-                    <img src= ".\src\Profile\resum.jpg" alt="poornima" width="200" height="200" />
+                    <img src= "https://png.pngitem.com/pimgs/s/22-223925_female-avatar-female-avatar-no-face-hd-png.png" alt="poornima" width="200" height="200" />
                     <div></div>
 
                 </div>
